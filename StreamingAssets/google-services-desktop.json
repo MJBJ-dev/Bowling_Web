@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429168200650",
+    "firebase_url": "https://flow-color.firebaseio.com",
+    "project_id": "flow-color",
+    "storage_bucket": "flow-color.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429168200650:android:8c9b3402ea219211365d33",
+        "android_client_info": {
+          "package_name": "free.fun.game.flow.color"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429168200650-4iv6mgphekqt17ok3g29204poe9oif92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtRRpEBtZeJ2vaxnStEolk_IEl2HCpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429168200650-4iv6mgphekqt17ok3g29204poe9oif92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
